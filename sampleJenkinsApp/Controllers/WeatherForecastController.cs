@@ -18,7 +18,10 @@ namespace sampleJenkinsApp.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
-
+        /// <summary>
+        /// add commented method
+        /// </summary>
+        /// <param name="logger"></param>
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
