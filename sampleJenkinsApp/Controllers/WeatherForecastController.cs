@@ -22,7 +22,7 @@ namespace sampleJenkinsApp.Controllers
         /// new comment removed
         /// 
         /// 
-        /// added comment again
+        /// comment rermoved
         /// </summary>
         /// <param name="logger"></param>
 
