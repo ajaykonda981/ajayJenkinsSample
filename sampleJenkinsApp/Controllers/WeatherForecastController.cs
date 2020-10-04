@@ -35,5 +35,12 @@ namespace sampleJenkinsApp.Controllers
             })
             .ToArray();
         }
-    }
+
+        [HttpGet("sample")] 
+
+        public string Welcome()
+        {
+            return "Welcome! to jenkins";
+        }
+     }
 }
