@@ -57,7 +57,7 @@ namespace sampleJenkinsApp.Controllers
         public string Welcome()
         {
 			
-			ajay   ganesh
+			
 			//ajya added here
 			
 			//added second comment here to checck 
